@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1cf0f61c281b8e2439ea0885035a1ed2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - losescreenUI: {fileID: 3223955361062658176, guid: 9c7d6e8186982b34e94c07f4fac02723, type: 3}
+  - winscreenUI: {fileID: 9112895643905663958, guid: 767204be08a214649aa68ede3b1703b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

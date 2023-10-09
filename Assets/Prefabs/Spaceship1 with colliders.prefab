@@ -166,6 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96de76e7691247db808b8426ce4f942e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BoostCube: {fileID: 6746975015804183011, guid: 10b9feb8bff1beb4dbc6afcea7bd0e12, type: 3}
 --- !u!114 &-5010529445466400356
 MonoBehaviour:
   m_ObjectHideFlags: 0

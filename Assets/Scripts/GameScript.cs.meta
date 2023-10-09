@@ -9,6 +9,7 @@ MonoImporter:
   - ground: {fileID: 2647697627606939306, guid: 404f2d09732e93f49be1df62fb625840, type: 3}
   - roof: {fileID: 731651665353232134, guid: 80fc894ae07ae3e408cce55c7f37461d, type: 3}
   - winPlate: {fileID: 2693321492366615596, guid: ba0eeb968c16aae46b267ce4b4a84de1, type: 3}
+  - BoostCube: {fileID: 6746975015804183011, guid: 10b9feb8bff1beb4dbc6afcea7bd0e12, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

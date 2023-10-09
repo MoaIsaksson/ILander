@@ -3,7 +3,8 @@ guid: 97b14a90733ad5b49890d8032be775e4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Spaceship2: {fileID: 5615610823629057172, guid: 936d046d1861b364ab1ae93d5901d173, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

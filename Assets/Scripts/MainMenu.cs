@@ -3,8 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public bool multiplayer;
-
         public void PlayGameSolo()
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
@@ -12,7 +10,6 @@ public class MainMenu : MonoBehaviour
 
         public void PlayGameDuo()
         {
-            multiplayer = true;
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 

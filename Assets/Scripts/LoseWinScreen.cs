@@ -24,7 +24,6 @@ public class LoseWinScreen : MonoBehaviour
 
     public void RestartGame()
     {
-        Debug.Log("prest");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 

@@ -4,12 +4,15 @@ My game is a spaceship lander type game, the goal is to land on the plate that i
 To move the spaceship use W- up, S- down, A- left, D- right.
 You need to start at the Main Menu scene and then choose the solo playing option. There are a total of three levels you need to get through.
 There is support for duo play mode but i havent gotten it to instantiate the second spaceship correctly.
+The packages i have used are AI navigaton, cinemachine, textmeshpro.
 
 When you collide with roof, ground or the planets you will get a lose screen and the option to Restart or Quit, the quit option could be changed to main menu.
 If you reach the plate to win you will get an option to go to the next level or quit the game.
 
 i had the idea to make a tunnel type game and i chose to do it in 2D because i really like the feeling of 2D type games and it was easier for me to execute a nice looking game. 
 it all went rather smoothly i did have some issues, and small hiccups but with more reasearch, your lectures and help and also with help of fellow classmates i could resolve the issues.
+
+i have kept the code clean and have tried to be as clear as i can with my naming of classes, methods etc. im easily confused by messy code so for my own sake i have kept it as clear as i can. i have divided the scripts so they do their own thing and not having all of the code in one script.
 
 i have used Brackeys videos to figure out how to make a functional Menu, pause screen, score & UI and how to get the camera to follow the spaceship. i have also used Unity Manual to get information how to to the input system to the controls and the AI navigation example to get the planets to move by themselves.
 
@@ -25,5 +28,5 @@ Spaceship - https://assetstore.unity.com/packages/3d/galactic-heroes-cartoon-spa
 Terrain texture - https://assetstore.unity.com/packages/2d/textures-materials/floors/stylized-terrain-texture-153469
 Background - https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056
 
-
+unity version - 2022.3.8f1
 Name - Moa Isaksson
